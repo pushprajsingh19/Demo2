@@ -1,3 +1,12 @@
+1. Download files
+2. Setup startup project for solution
+3. Choose multiple startup projects and enable DNBLIv.VIPS.URLSHOrt and DnblivUrlShortUI to start
+4. Build solution
+5. Verify URL for API and update web.config in both projects
+6. Stop and run both project
+7. Run progam
+
+
 _____________________________________________________________________________________________________
 -	Solution description
 _____________________________________________________________________________________________________
